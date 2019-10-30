@@ -14,7 +14,7 @@ django_mobile==0.7.0
 easy-thumbnails==2.4.1
 icalendar==3.11.3
 invoke>=0.14,<0.15
-pillow==4.1.0
+pillow==6.2.0
 python-mimeparse
 reportlab>=3.3,<3.4
 requests
